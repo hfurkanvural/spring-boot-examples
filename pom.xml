@@ -19,6 +19,7 @@
         <module>spring-boot-graphql</module>
         <module>spring-redis-cache</module>
         <module>spring-boot-kafka</module>
+        <module>spring-boot-rest-template</module>
     </modules>
 
 
